@@ -1,0 +1,7 @@
+Pandas 
+NumPy 
+Matplotlib 
+Seaborn 
+Scikit-learn 
+MLxtend 
+Streamlit
